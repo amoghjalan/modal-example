@@ -16,3 +16,12 @@ This application just has a feature of opening a modal and updating the text to 
    npm install
    npm run start
    ```
+## Images
+### Main Screen
+![Main Screen](https://github.com/amoghjalan/modal-example/blob/main/images/image1.jpg)
+
+### Modal Screen
+![Modal Screen](https://github.com/amoghjalan/modal-example/blob/main/images/image2.jpg)
+
+### Main Screen (With Text Added)
+![Main Screen (With Text Added)](https://github.com/amoghjalan/modal-example/blob/main/images/image3.jpg)
